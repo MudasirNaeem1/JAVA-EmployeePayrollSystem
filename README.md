@@ -5,7 +5,7 @@
   ![Language](https://img.shields.io/badge/Language-JAVA-pink?style=for-the-badge&logo=checkmark)
   ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=checkmark)
   ![Paradigm](https://img.shields.io/badge/Paradigm-OOP-blue?style=for-the-badge&logo=checkmark)
-  ![IDE](https://img.shields.io/badge/IDE-VsCode-blue?style=for-the-badge&logo=checkmark)
+  ![IDE](https://img.shields.io/badge/IDE-IntelliJ-blue?style=for-the-badge&logo=checkmark)
    
  <img src="https://www.theserverside.com/rms/onlineimages/hello-world-examples_mobile.gif" width="700" height="300" alt="Business Management Animation"/>
 
@@ -338,7 +338,7 @@ Documentation            ██████████████████�
   
   **Need Help? We're Here for You!** 💬
   
-  [![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-red?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MudasirNaeem1/Employee-Payroll-System/issues)
+  [![Contact](https://img.shields.io/badge/Contact-Linkedin-red?style=for-the-badge&logo=github&logoColor=white)](www.linkedin.com/in/mudasir-naeem-698679303)
   [![Email Support](https://img.shields.io/badge/Email-Support-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudasirnaeem000@gmail.com)
   
   
