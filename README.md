@@ -336,10 +336,22 @@ Documentation            ██████████████████�
 
 <div align="center">
   
-  **Need Help? We're Here for You!** 💬
+  **Let's build the future with data together!** 🌟
   
-  [![Contact](https://img.shields.io/badge/Contact-Linkedin-red?style=for-the-badge&logo=github&logoColor=white)](www.linkedin.com/in/mudasir-naeem-698679303)
-  [![Email Support](https://img.shields.io/badge/Email-Support-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudasirnaeem000@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mudasir-naeem-698679303)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MudasirNaeem1)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudasirnaeem000@gmail.com)
   
+  ---
+  
+  ### 💬 **Feedback & Questions**
+  
+  Found this repository helpful? ⭐ **Star it!**
+  
+  Have questions or suggestions? 💭 **Open an issue!**
+  
+  Want to collaborate? 🤝 **Let's connect!**
   
 </div>
+
+---
